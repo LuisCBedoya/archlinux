@@ -29,7 +29,7 @@ echo -e '#autostart
 \nexport XDG_SESSION_TYPE=x11
 \nexport GDK_BACKEND=x11
 \nsetxkbmap latam &
-\nexec dbus-run-session startxfce4' > $HOME/.xinitrc
+\nexec dbus-run-session startxfce4' > /home/luc/.xinitrc
 
 # Confirmar que el archivo .xinitrc fue creado correctamente
 echo "Archivo .xinitrc configurado exitosamente."
