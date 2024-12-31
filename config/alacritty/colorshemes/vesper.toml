@@ -1,0 +1,26 @@
+# Colors (Vesper)
+# Source https://github.com/raunofreiberg/vesper
+
+[colors.primary]
+background = '#0c0c0c'
+foreground = '#ffffff'
+
+[colors.normal]
+black   = '#1b1d24'
+red     = '#d57c74'
+green   = '#33D17A'
+yellow  = '#e6b99d'
+blue    = '#4798FF'
+magenta = '#7a9ab6'
+cyan    = '#7a9ab6'
+white   = '#FFFFFF'
+
+[colors.bright]
+black   = '#7e7e7e'
+red     = '#ff8080'
+green   = '#99ffe4'
+yellow  = '#ffc799'
+blue    = '#b9aeda'
+magenta = '#ecaad6'
+cyan    = '#f591b2'
+white   = '#ffffff'

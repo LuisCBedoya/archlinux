@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=powermode-indicator
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=PowerMode Indicator
+Comment=Ejecuta el indicador de PowerMode al inicio
+Icon=Fluent-Dark

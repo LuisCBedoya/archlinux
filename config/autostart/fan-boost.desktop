@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/luc/.config/scripts/fan-boost.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=fan-boost
+Comment=script para verificar fan modes

@@ -1,0 +1,15 @@
+[user]
+pinned=thunar;firefox;xfce4-terminal;xfce4-screenshooter;org.telegram.desktop;Alacritty;com.github.maoschanz.drawing;
+indicatorStyle=0
+inactiveIndicatorStyle=1
+indicatorOrientation=1
+indicatorColor=rgb(255,163,72)
+inactiveColor=rgb(76,166,230)
+indicatorColorFromTheme=true
+forceIconSize=true
+iconSize=29
+middleButtonBehavior=2
+noWindowsListIfSingle=false
+onlyDisplayVisible=false
+showPreviews=false
+showWindowCount=false
